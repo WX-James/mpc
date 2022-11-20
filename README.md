@@ -79,7 +79,10 @@ cd .. && cakin_make
 
 ​		在yaml文件：/mpc/config/param.yaml中对MPC轨迹跟踪器进行具体参数配置
 
-（5）启动MPC轨迹跟踪控制器
+（5）发布参考轨迹的说明
+​		请按照自定义消息/mpc/msg/Polynome.msg来发布参考轨迹
+
+（6）启动MPC轨迹跟踪控制器
 
 ```bash
 source devel/setup.bash
