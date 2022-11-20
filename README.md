@@ -1,6 +1,7 @@
 # 基于线性模型预测控制的差速小车轨迹跟踪控制器
 
 本仓库来源于浙江大学Fast-lab实验室的3D2M_planner项目的mpc轨迹跟踪器，笔者根据项目需求将其提取和修改作为独立的功能包，并提供使用说明。
+(https://github.com/ZJU-FAST-Lab/3D2M-planner)
 
 ## 1. 依赖安装
 
